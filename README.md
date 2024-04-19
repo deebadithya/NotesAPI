@@ -24,5 +24,5 @@ MAKE TWO TERMINALS ONE FOR FRONTEND AND ANOTHER FOR BACKEND
 # To add baseURL of backend onto the frontend
 
 on frontend/.env    -- create one if its not there. 
- - VITE_API_URL = "django localhost url"  -- ex: "http://127.0.0.1:8000/"
+ - VITE_API_URL = "django localhost url"     ex: "http://127.0.0.1:8000/"
   
